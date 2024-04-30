@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 📚 Studying Business and Computer Science at WashU
 - 🔭 Working on a website for a Bear Studios client
-- 🌱 Currently learning about Python and machine learning
+- 🌱 Currently learning about Python, machine learning, and data science
 - 📫 How to reach me: [emilyhuang@wustl.edu]
 
