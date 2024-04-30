@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: (emilyhuang@wustl.edu)[mailto📧]
+- 📫 How to reach me: (emilyhuang@wustl.edu)
 
