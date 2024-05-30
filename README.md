@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 Studying Business and CS with a minor in HCI at WashU
+- 📚 Studying Business and CS at WashU
 - 🔭 Currently working on 2 website/app development projects for Bear Studios clients
 - 🌱 Learning about Python, machine learning, and data science
 - 📫 How to reach me: [emilyhuang@wustl.edu]
