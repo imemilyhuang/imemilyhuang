@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 Studying Business and CS at WashU
-- 🔭 Currently working on 2 website/app development for Bear Studios clients
+- 📚 Studying CS and Business at WashU
+- 🔭 Currently a Tech Consultant at Bear Studios and previously a SWE Intern at Ariel
 - 🌱 Learning to use Python in machine learning and data science
 - 📫 How to reach me: [emilyhuang@wustl.edu]
 
