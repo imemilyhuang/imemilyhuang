@@ -1,4 +1,4 @@
-### Hi, I'm Emily 👋
+### Hi! I'm Emily 👋
 
 <!--
 **imemilyhuang/imemilyhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 Studying CS and Business at WashU
-- 🔭 Currently a Tech Consultant at Bear Studios and previously a SWE Intern at Ariel
-- 🌱 Learning to use Python in machine learning and data science
-- 📫 How to reach me: [emilyhuang@wustl.edu]
+📚 Studying Computer Science and Business at WashU
 
+💻 Incoming SWE Intern at Gusto, Tech Consultant at Bear Studios, and previous SWE Intern at Ariel
+
+💌 Reach me at emilyhuang@wustl.edu
+
+🔗 Let's connect! [LinkedIn](https://www.linkedin.com/in/imemilyhuang/)
