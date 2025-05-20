@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 Studying Computer Science and Business at WashU
+📚 Business and Computer Science at WashU
 
-💻 Incoming SWE Intern at Gusto, Tech Consultant at Bear Studios, and previous SWE Intern at Ariel
+👩‍💻 Current SWE Intern at [Gusto](https://gusto.com/product/payroll), contributing to the Payroll Platform team
 
 💌 Reach me at emilyhuang@wustl.edu
 
