@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📚 Business and Computer Science at WashU
 
-👩‍💻 Current SWE Intern at [Gusto](https://gusto.com/product/payroll), contributing to the Payroll Platform team
+👩‍💻 Prev SWE Intern at [Gusto](https://gusto.com/product/payroll) on the Payroll Platform team
 
 💌 Reach me at emilyhuang@wustl.edu
 
