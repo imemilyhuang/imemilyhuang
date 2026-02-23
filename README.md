@@ -1,24 +1,11 @@
-### Hi! I'm Emily 👋
+# hi! i'm emily 👋
 
-<!--
-**imemilyhuang/imemilyhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 i study business and computer science at washu
 
-Here are some ideas to get you started:
+👩‍💻 previously, i worked at [gusto](https://gusto.com/product/payroll) as a swe intern on the payroll platform team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🪨 next summer, i'm joining the aladdin wealth technology team at [blackrock](https://www.blackrock.com/aladdin/products/aladdin-wealth)
 
-📚 Business and Computer Science at WashU
+💌 reach me at emilyhuang@wustl.edu
 
-👩‍💻 Prev SWE Intern at [Gusto](https://gusto.com/product/payroll) on the Payroll Platform team
-
-💌 Reach me at emilyhuang@wustl.edu
-
-🔗 Let's connect! [LinkedIn](https://www.linkedin.com/in/imemilyhuang/)
+🔗 let's connect on [linkedin](https://www.linkedin.com/in/imemilyhuang/)!
