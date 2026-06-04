@@ -1,10 +1,10 @@
 # hi! i'm emily 👋
 
-📚 i study business and computer science at washu
+📚 i study business & computer science at washu
 
-👩‍💻 previously, i worked at [gusto](https://gusto.com/product/payroll) as a swe intern on the payroll platform team
+🪨 i'm currently on the aladdin wealth technology team at [blackrock](https://www.blackrock.com/aladdin/products/aladdin-wealth)
 
-🪨 next summer, i'm joining the aladdin wealth technology team at [blackrock](https://www.blackrock.com/aladdin/products/aladdin-wealth)
+👩‍💻 last summer, i worked at [gusto](https://gusto.com/product/payroll) on the payroll platform team
 
 💌 reach me at emilyhuang@wustl.edu
 
