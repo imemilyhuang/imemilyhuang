@@ -4,7 +4,7 @@
 
 🪨 last summer, i was a forward deployed engineer for aladdin wealth technology at [blackrock](https://www.blackrock.com/aladdin/products/aladdin-wealth)
 
-👩‍💻 before that, i did software engineering at [gusto](https://gusto.com/product/payroll) under the payroll platform team
+👩‍💻 before that, i did software engineering on the payroll platform team at [gusto](https://gusto.com/product/payroll)
 
 💌 reach me at emilyhuang@wustl.edu
 
