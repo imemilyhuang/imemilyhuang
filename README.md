@@ -16,7 +16,7 @@
 
 🧸 **bear studios**  
 *partner & tech consultant in the [tech vertical](https://www.bearstudios.org/)*
- - built software products & delivered technology strategies for startups & local businesses
+ - led development of software products & advised startups & local businesses on  technology strategy
 
 
 ## contact
