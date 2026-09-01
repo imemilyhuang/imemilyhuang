@@ -1,7 +1,6 @@
 # hi! i'm emily 👋
-- i study business & computer science at washu
-- i build AI, data, & software products at the intersection of business & technology
-
+- i study business, cs, & hci at washu
+- interested in working with data & AI + building & deploying useful software
 
 ## experience
 
