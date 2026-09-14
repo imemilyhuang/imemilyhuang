@@ -1,6 +1,7 @@
 # hi! i'm emily 👋
-- i study business, cs, & hci at washu
-- interested in working with data & AI + building & deploying useful software
+- i study business, CS, & HCI at washu
+- interested in working with data & AI + building & deploying useful software products
+
 
 ## experience
 
@@ -15,7 +16,7 @@
 
 🧸 **bear studios**  
 *partner & tech consultant in the [tech vertical](https://www.bearstudios.org/)*
- - led development of software products & advised startups & local businesses on  technology strategy
+ - led development of software products + advised startups & local businesses on technology strategy
 
 
 ## contact
