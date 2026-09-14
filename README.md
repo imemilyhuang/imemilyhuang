@@ -7,7 +7,7 @@
 
 🪨 **blackrock**  
 *forward deployed engineering on the [aladdin wealth tech team](https://www.blackrock.com/aladdin/products/aladdin-wealth)*  
-- delivered enterprise risk/portfolio analytics platform to clients with $1T+ AUM
+- delivered enterprise risk & portfolio analytics platform to clients with $1T+ AUM
 - built AI assistant to answer questions on aladdin risk methodology
 
 🐷 **gusto**  
@@ -16,7 +16,7 @@
 
 🧸 **bear studios**  
 *partner & tech consultant in the [tech vertical](https://www.bearstudios.org/)*
- - led development of software products + advised startups & local businesses on technology strategy
+ - led development of apps & websites + advised startups & local businesses on technology strategy
 
 
 ## contact
