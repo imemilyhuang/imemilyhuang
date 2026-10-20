@@ -15,7 +15,7 @@
 - built full-stack tool to manage payroll inputs history across 500K+ SMB customers
 
 🧸 **bear studios**  
-*partner & tech consultant in the [tech vertical](https://www.bearstudios.org/)*
+*partner & consultant in the [tech vertical](https://www.bearstudios.org/)*
  - led development of apps & websites + advised startups & local businesses on technology strategy
 
 
